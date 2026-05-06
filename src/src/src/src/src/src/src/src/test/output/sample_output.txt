@@ -1,0 +1,10 @@
+Mini Compiler Started
+Valid Variable Declaration
+Valid Assignment Statement
+
+Semantic Analysis Completed Successfully
+
+Three Address Code:
+t1 = a + b
+t2 = t1 * c
+x = t2
